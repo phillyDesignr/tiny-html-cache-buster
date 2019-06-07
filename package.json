@@ -1,21 +1,21 @@
 {
   "name": "tiny-html-version-bump",
   "version": "0.0.1",
-  "description": "",
+  "description": "tiny-html-version-bump",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/phillyDesignr/tiny-html-version-bump.git"
+    "url": "git+https://github.com/phillyDesignr/tiny-html-cache-buster.git"
   },
   "author": "Jeremy Zevin",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/phillyDesignr/tiny-html-version-bump/issues"
+    "url": "https://github.com/phillyDesignr/tiny-html-cache-buster/issues"
   },
-  "homepage": "https://github.com/phillyDesignr/tiny-html-version-bump#readme",
+  "homepage": "https://github.com/phillyDesignr/tiny-html-cache-buster#readme",
   "dependencies": {
     "minimist": "^1.2.0",
     "rimraf": "^2.6.3"
