@@ -19,7 +19,11 @@
   },
   "homepage": "https://github.com/phillyDesignr/tiny-html-cache-buster#readme",
   "dependencies": {
+    "cpy": "^7.2.0",
     "minimist": "^1.2.0",
     "rimraf": "^2.6.3"
+  },
+  "bin": {
+    "bust": "./index.js"
   }
 }

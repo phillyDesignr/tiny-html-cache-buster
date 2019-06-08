@@ -1,1 +1,1 @@
-var foo = 123;
+var foo  = 123;
