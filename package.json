@@ -1,6 +1,6 @@
 {
   "name": "tiny-html-version-bump",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "tiny-html-version-bump",
   "main": "index.js",
   "scripts": {
